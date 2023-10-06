@@ -7,6 +7,8 @@
 #include <fstream>
 #include <windows.h>
 #include <array>
+
+
 using namespace std;
 
 class mar{
